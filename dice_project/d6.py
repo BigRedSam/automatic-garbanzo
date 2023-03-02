@@ -10,7 +10,7 @@ result_label.pack()
 
 def roll_d6():
     result = random.randint(1,6)
-
+    
     result_label.config(text="Result: " + str(result))
 
 
