@@ -19,3 +19,5 @@ average = total_rain / months
 print()
 print(f"The total amount of rain in {months} months is {total_rain} inches.")
 print(f"The Average amount of rain per month is {average:.2f} inches")
+
+#git test change
