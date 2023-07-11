@@ -9,4 +9,4 @@ for period in forecast_periods:
     day = period['name']
     temp = period['temperature']
     forecast = period['detailedForecast']
-    print(f'{day}: {temp}F. {forecast}/n')
+    print(f'{day}: {temp}F. {forecast}')
